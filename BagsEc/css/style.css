@@ -14,10 +14,10 @@ nav{
     margin-left: auto;
 }
 
-.logo{
-    width: 50px;
-    height: 50px;
-
+#logo-img{
+    width: 30px;
+    
+   
 }
 
 .menu-items{
@@ -52,7 +52,7 @@ nav{
     width: 100%;
     align-items: center;    
 }
-..cart-badge{
+.cart-badge{
     background-color: #ce7852;
     width: 20px;
     height: 20px;
@@ -65,7 +65,7 @@ nav{
 .cart-badge p{
     font-size: 10px;
     color: white;
-    font width: 600px;
+    font-weight: 600;
 }
 
 .cart-image-container{
@@ -149,6 +149,7 @@ nav{
     padding: 6px;
     margin-bottom: 5px;
     line-height: 24px;
+    font-family: sans-serif
 }
 .title-sub-title span{
     font-weight: bold;
